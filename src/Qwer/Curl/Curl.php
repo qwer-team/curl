@@ -1,6 +1,6 @@
 <?php
 
-namespace Qwer;
+namespace Qwer\Curl;
 
 class Curl
 {
