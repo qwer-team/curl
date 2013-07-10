@@ -1,0 +1,13 @@
+{
+    "name": "qwer-team/curl",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Qwer\\Curl": "src/"
+        }
+    }
+}
